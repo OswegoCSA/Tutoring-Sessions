@@ -2,21 +2,21 @@ Tutoring Sessions
 =================
 
 This document contains the tutoring sessions and the contacts.
-*Help will always be given at hogwarts to those who ask for it.*
+*Help will always be given ~~at Hogwarts~~ in Snygg to those who ask for it.*
 
 Help is available on IRC:
 **irc.freenode.net #OswegoCSA**
 
-###Monday
+**Monday**
    
-###Tuesday
+**Tuesday**
    
-###Wednesday
+**Wednesday**
    
-###Thursday
+**Thursday**
    
-###Friday
+**Friday**
    
-###Saturday
+**Saturday**
    
-###Sunday
+**Sunday**
